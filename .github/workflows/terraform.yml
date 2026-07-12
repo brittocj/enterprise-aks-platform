@@ -1,0 +1,11 @@
+name: Terraform
+on:
+  push:
+    paths:
+      - 'terraform/**'
+
+jobs:
+  plan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
