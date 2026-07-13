@@ -1,1 +1,2 @@
-// Key Vault module placeholder
+# Key Vault module
+# Placeholder for Azure Key Vault resources

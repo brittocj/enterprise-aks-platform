@@ -1,2 +1,2 @@
-// Role Assignment module - variables.tf
-// Define input variables here
+# Role Assignment module input variables
+# Add variables here

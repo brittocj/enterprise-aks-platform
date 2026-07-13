@@ -1,3 +1,3 @@
 # Networking Module
 
-Placeholder module for networking resources.
+Placeholder module for virtual network and subnet resources.

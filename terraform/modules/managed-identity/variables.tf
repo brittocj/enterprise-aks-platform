@@ -1,2 +1,2 @@
-// Managed Identity module - variables.tf
-// Define input variables here
+# Managed Identity module input variables
+# Add variables here

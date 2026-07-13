@@ -1,2 +1,2 @@
-// Managed Identity module - main.tf
-// Placeholder for managed identity resources
+# Managed Identity module
+# Placeholder for managed identity resources

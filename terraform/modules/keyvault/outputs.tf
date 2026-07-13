@@ -1,2 +1,2 @@
-// Key Vault module - outputs.tf
-// Define outputs here
+# Key Vault module outputs
+# Add outputs here

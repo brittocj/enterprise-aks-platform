@@ -1,2 +1,2 @@
-// AKS module - variables.tf
-// Define input variables here
+# AKS module input variables
+# Add variables here

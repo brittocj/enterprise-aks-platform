@@ -1,3 +1,3 @@
 # Resource Group Module
 
-Placeholder module for creating Azure Resource Groups.
+Placeholder module for creating an Azure Resource Group.

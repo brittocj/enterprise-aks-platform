@@ -1,2 +1,2 @@
-// Managed Identity module - outputs.tf
-// Define outputs here
+# Managed Identity module outputs
+# Add outputs here

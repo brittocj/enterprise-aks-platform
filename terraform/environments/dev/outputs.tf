@@ -1,2 +1,5 @@
-# Output values for the dev environment
-# TODO: expose outputs for the dev deployment
+# Outputs for the dev environment
+
+output "resource_group_name" {
+  value = module.resource_group.name
+}

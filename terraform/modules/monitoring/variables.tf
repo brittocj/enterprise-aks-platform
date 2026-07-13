@@ -1,2 +1,2 @@
-// Monitoring module - variables.tf
-// Define input variables here
+# Monitoring module input variables
+# Add variables here

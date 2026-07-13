@@ -1,2 +1,2 @@
-// Monitoring module - outputs.tf
-// Define outputs here
+# Monitoring module outputs
+# Add outputs here

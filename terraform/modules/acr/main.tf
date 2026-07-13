@@ -1,1 +1,2 @@
-// ACR module placeholder
+# ACR module
+# Placeholder for Azure Container Registry resources

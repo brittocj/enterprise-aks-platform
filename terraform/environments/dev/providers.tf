@@ -1,2 +1,5 @@
-# Provider configuration for the dev environment
-# TODO: configure providers and credentials for dev
+provider "azurerm" {
+  features {}
+
+  subscription_id = var.subscription_id
+}

@@ -1,2 +1,2 @@
 # Backend configuration for the dev environment
-# TODO: configure backend settings for the dev workspace
+# TODO: configure your Terraform backend here.

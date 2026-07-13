@@ -1,2 +1,2 @@
-// Role Assignment module - outputs.tf
-// Define outputs here
+# Role Assignment module outputs
+# Add outputs here

@@ -1,3 +1,0 @@
-# Networking
-
-Networking design notes.

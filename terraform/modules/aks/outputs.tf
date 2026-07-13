@@ -1,2 +1,2 @@
-// AKS module - outputs.tf
-// Define outputs here
+# AKS module outputs
+# Add outputs here

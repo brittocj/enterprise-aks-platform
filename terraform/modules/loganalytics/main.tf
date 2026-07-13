@@ -1,1 +1,2 @@
-// Log Analytics module placeholder
+# Log Analytics module
+# Placeholder for Log Analytics workspace resources

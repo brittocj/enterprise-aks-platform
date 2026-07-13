@@ -1,1 +1,2 @@
-// Monitoring module placeholder
+# Monitoring module
+# Placeholder for monitoring resources

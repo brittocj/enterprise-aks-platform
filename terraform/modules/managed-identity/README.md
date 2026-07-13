@@ -1,3 +1,3 @@
 # Managed Identity Module
 
-Placeholder module for creating managed identities.
+Placeholder module for creating Azure managed identities.

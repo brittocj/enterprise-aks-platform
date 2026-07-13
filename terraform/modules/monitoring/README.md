@@ -1,3 +1,3 @@
 # Monitoring Module
 
-Placeholder module for monitoring resources (Log Analytics, Prometheus, etc.).
+Placeholder module for monitoring resources such as Log Analytics, alerts, or dashboards.

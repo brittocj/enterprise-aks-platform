@@ -1,2 +1,2 @@
-// Key Vault module - variables.tf
-// Define input variables here
+# Key Vault module input variables
+# Add variables here
